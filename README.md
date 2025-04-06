@@ -1,2 +1,2 @@
 # passwordgen
-PASSWORDGEN BY OLIVIDERCHY
+PASSWORDGEN BY OLIVIDERCHY /// Утилита для генерации надежных паролей.
